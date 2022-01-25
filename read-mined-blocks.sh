@@ -1,0 +1,1 @@
+docker compose logs chainweb-stratum-server | grep "solved block"
